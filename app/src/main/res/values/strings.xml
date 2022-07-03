@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WineFindThankU</string>
+    <string name="button_start">시작하기</string>
 </resources>
